@@ -1,0 +1,152 @@
+
+body{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 290vh;
+ 
+}
+
+.caption{
+
+    background-image: url('images/3.jpg');
+    text-align: center;
+    height: 95vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.caption img{
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 13px;
+}
+
+.caption h1, .caption p {
+    color: rgb(36, 36, 37);
+    
+}
+
+.caption p{
+    
+    font-size: 30px;
+    font-family:'Dancing Script', cursive; ;
+
+}
+
+.caption button{
+  padding: 10px;
+  border: #000 2px solid;
+    
+}
+
+.caption .button1{
+    
+
+    background-color: #c1ab84;
+
+  }
+.caption .button2{
+    
+    background-color: #fff;
+    
+      
+  }
+  
+
+
+.discover{
+
+    height: 80vh;
+    overflow: hidden;
+}
+
+  .chef-profile {
+
+    width: 40%; 
+}
+
+.discover .chef-profile .chef_img {
+    width: 100%;
+    height: 70vh;
+   float: left;
+
+}
+
+.chef-description{
+
+    
+    width: 60%;
+    text-align: center;
+    float: left;
+    margin-top: 10%;
+    font-size: 20px;
+ 
+}
+
+.discover .chef-description span{
+    color: #f2ce08;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px ;
+    font-weight: 700;
+
+}
+
+.discover .chef-description p{
+    color: #686868;
+    padding: 30px;
+}
+
+.discover .chef-description button{
+
+    padding:10px 15px ;
+    border: #000  2px solid  ;
+    background-color: transparent;
+}
+
+.section2 {
+
+    background-image: url("images/restaurant.jpg");
+    height: 40vh;
+    width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+margin: 0px;
+
+}
+
+.section3 {
+
+    
+    overflow: hidden;
+    
+}
+
+.section3 .item{
+    width: 25%;
+    text-align: center;
+    padding: 10px 0;
+    float: left;
+    margin: 15px 0;
+
+}
+
+.section3 .item img{
+    width: 95%;
+  
+    border-radius: 50%;
+}
+
+.section3 .item p{
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #686868;
+}
+
+.section3 .item .brder{
+    height: 1px;
+    background-color: #7a7a7a;
+    width: 30%;
+    margin: auto;
+}
+
